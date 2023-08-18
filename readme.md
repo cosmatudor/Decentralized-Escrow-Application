@@ -1,6 +1,6 @@
 # Decentralized Escrow Application
 
-This is an Escrow Dapp built with [Hardhat](https://hardhat.org/).
+This is an Escrow Dapp built with Hardhat. An Escrow is a contractual arrangement in which a third party receives and distribuses money or propriety for the primary transacting parties, with the disbursement dependent on coditions agreed to by the transacting parties.
 
 ## Project Layout
 
